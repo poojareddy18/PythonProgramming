@@ -1,0 +1,6 @@
+print("arithmetic operations")
+first = int(input('enter frst num:'))
+sec = int(input('enter sec num:'))
+print('add=' ,first + sec)
+print('sub=' ,first - sec)
+print('mul=' ,first * sec)
